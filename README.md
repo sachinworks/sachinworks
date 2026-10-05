@@ -32,13 +32,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,go,ts,pytorch,docker,kubernetes,aws,terraform,postgres,redis,kafka,linux,git,githubactions&perline=15" alt="Tech stack"/>
 </p>
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinworks&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinworks&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
-</p>
-
 ### Latest writing
 
 - [Read my articles on dev.to →](https://dev.to/sachin_krrajput)
