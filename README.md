@@ -2,6 +2,7 @@
 <h3 align="center">Inference Engineer · 15 years building platforms that run in production</h3>
 
 <p align="center">
+  <a href="https://sachinrajput.dev"><img src="https://img.shields.io/badge/Website-sachinrajput.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://dev.to/sachin_krrajput"><img src="https://img.shields.io/badge/dev.to-sachin__krrajput-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
   <a href="https://www.linkedin.com/in/skrajput18/"><img src="https://img.shields.io/badge/LinkedIn-skrajput18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Guidepoint-Qsight-1f6feb?style=for-the-badge" alt="Guidepoint Qsight"/>
@@ -32,6 +33,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,go,ts,pytorch,docker,kubernetes,aws,terraform,postgres,redis,kafka,linux,git,githubactions&perline=15" alt="Tech stack"/>
 </p>
+
+### Codebases I'm studying
+
+Forks I read, annotate and experiment with:
+
+| Repo | Why |
+|---|---|
+| [vLLM](https://github.com/sachinworks/vllm) | PagedAttention, continuous batching, scheduler design |
+| [SGLang](https://github.com/sachinworks/sglang) | RadixAttention prefix caching, structured generation |
+| [TensorRT-LLM](https://github.com/sachinworks/TensorRT-LLM) | Kernel fusion, in-flight batching, FP8 on NVIDIA GPUs |
+| [FlashInfer](https://github.com/sachinworks/flashinfer) | Attention kernels for serving workloads |
+| [llm.c](https://github.com/sachinworks/llm.c) | LLM training in raw C/CUDA, end to end |
+| [nanoGPT](https://github.com/sachinworks/nanoGPT) | Minimal GPT reference implementation |
 
 ### Latest writing
 
