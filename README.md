@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://dev.to/sachin_krrajput"><img src="https://img.shields.io/badge/dev.to-sachin__krrajput-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+  <a href="https://www.linkedin.com/in/skrajput18/"><img src="https://img.shields.io/badge/LinkedIn-skrajput18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Guidepoint-Qsight-1f6feb?style=for-the-badge" alt="Guidepoint Qsight"/>
   <img src="https://img.shields.io/badge/Location-India-2ea44f?style=for-the-badge" alt="India"/>
 </p>
